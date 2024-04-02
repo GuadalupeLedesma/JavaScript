@@ -1,11 +1,3 @@
-// function calculateTotalExpense() {
-//     let resultadoSuma = 0;
-//     for (let i = 0; i < expenses.lenght; i++) {
-//         resultadoSuma = expenses[i] + resultadoSuma;
-//     }
-//     totalExpense.textContent = `Gasto Total: $${resultadoSuma.toFixed(2)}`;
-// } */
-
 let saldo;
 let gastosTotales = 0;
 let saldoRestante;
